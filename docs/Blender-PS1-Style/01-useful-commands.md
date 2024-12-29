@@ -37,4 +37,4 @@ title: Useful Commands
 | `c`              | circle selection |
 | `s`              | scale            |
 | `ctrl r`         | loop cut         |
-
+| `middleMouse`    | deselect vertex  | 
