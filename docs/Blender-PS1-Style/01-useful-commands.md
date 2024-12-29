@@ -34,3 +34,4 @@ title: Useful Commands
 | Shortcut         | Description   |
 | ---------------- | ------------- |
 | `b`              | box selection | 
+| `s`              | scale         |
