@@ -36,3 +36,5 @@ title: Useful Commands
 | `b`              | box selection    | 
 | `c`              | circle selection |
 | `s`              | scale            |
+| `ctrl r`         | loop cut         |
+
