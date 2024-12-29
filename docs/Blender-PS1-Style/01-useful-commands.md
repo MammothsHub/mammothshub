@@ -16,10 +16,11 @@ title: Useful Commands
 
 ## Different modes
 
-| Shortcut         | Description |
-| ---------------- | ----------- |
-| `G`              | Grab Mode   | 
-| `Tab`            | Edit Mode   | 
+| Shortcut         | Description       |
+| ---------------- | ----------------- |
+| `G`              | Grab Mode         | 
+| `Tab`            | Edit Mode         | 
+| `alt z`          | Transparency Mode |
 
 ### Grab Mode 
 
@@ -28,3 +29,8 @@ title: Useful Commands
 | `Z`              | Lock to Z axis      | 
 | `ctrl`           | Snap to grid (hold) |
 
+### Transparency Mode 
+
+| Shortcut         | Description   |
+| ---------------- | ------------- |
+| `b`              | box selection | 
