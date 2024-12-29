@@ -31,7 +31,8 @@ title: Useful Commands
 
 ### Transparency Mode 
 
-| Shortcut         | Description   |
-| ---------------- | ------------- |
-| `b`              | box selection | 
-| `s`              | scale         |
+| Shortcut         | Description      |
+| ---------------- | ---------------- |
+| `b`              | box selection    | 
+| `c`              | circle selection |
+| `s`              | scale            |
