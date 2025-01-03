@@ -31,10 +31,13 @@ title: Useful Commands
 
 ### Transparency Mode 
 
-| Shortcut         | Description      |
-| ---------------- | ---------------- |
-| `b`              | box selection    | 
-| `c`              | circle selection |
-| `s`              | scale            |
-| `ctrl r`         | loop cut         |
-| `middleMouse`    | deselect vertex  | 
+| Shortcut         | Description                |
+| ---------------- | -------------------------- |
+| `a`              | select all vertices        | 
+| `b`              | boxselection               | 
+| `c`              | circle selection           |
+| `e`              | extrude                    | 
+| `m`              | merge (select by distance) | 
+| `s`              | scale                      |
+| `ctrl r`         | loop cut                   |
+| `middleMouse`    | deselect vertex            | 

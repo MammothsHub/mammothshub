@@ -40,3 +40,11 @@ Then we will change modes to transparent mode (`alt z`) so we can select vertice
 </br>
 ![windmillLoopCut](images/windmillLoopCut.png){ width="600" }
 </br>
+
+## Extruding Top 
+
+After we have loop cut we have the main body for our windmill but it feels like its missing somewhere for the Windmill blades to come from. So Let's make a little hat. By selecting the top 4 points in `transparency mode` we can then click use extrude (`e`) then scale with (`s`) then extrude again (`e`) to create a little box. Finally we can then scale (`s`) again to close the top a little bit to give the windmill at hat. It should look like similar to this:
+</br>
+![windmillLoopCut](images/windmillFinishedBody.png){ width="600" }
+</br>
+
