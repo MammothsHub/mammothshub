@@ -26,14 +26,14 @@ theme:
         icon: material/lightbulb
         name: switch to dark mode 
       primary: brown 
-      accent: grey 
+      accent: orange 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle: 
         icon: material/lightbulb-outline
         name: switch to light mode 
-      primary: grey
-      accent: grey
+      primary: brown
+      accent: orange
 
 extra_css:
   - stylesheets/extra.css
