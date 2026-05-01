@@ -3,7 +3,8 @@ title: No VNC Example
 ---
 
 Example used to produce the first basic novnc 
-based on conversation had with [NiceGUI contributor](https://github.com/zauberzeug/nicegui/discussions/5929)
+based on conversation had with [NiceGUI contributor](https://github.com/zauberzeug/nicegui/discussions/5929).
+
 ``` python
 from nicegui import ui
 import netifaces
